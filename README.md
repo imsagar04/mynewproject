@@ -10,7 +10,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+My idea is unique and very understandable which will make it very easy to understand my code with respect to implement the project building with AI buildling with some amazing tools for the efficient functioning of the program.
 
 
 ## Background
